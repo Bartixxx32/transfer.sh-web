@@ -1,4 +1,4 @@
-transfer.sh: Easy file sharing from the command line 
+transfer.sh: Bartixxx Test 
 ===
 made with <3 by DutchCoders 
 
